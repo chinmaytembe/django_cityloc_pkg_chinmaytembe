@@ -6,10 +6,6 @@
 Welcome to django_cityloc_pkg_chinmaytembe's documentation!
 ===========================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 .. automodule:: django_cityloc_pkg_chinmaytembe
       :members:
 
